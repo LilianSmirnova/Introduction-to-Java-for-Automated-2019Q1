@@ -1,3 +1,4 @@
+
 package com.epam.liliana_smirnova.java.lesson1.task2;
 
 import java.util.Scanner;
@@ -38,4 +39,3 @@ public class LogicStringProcessing {
 		System.out.println("Number of characters per line:" + longString.length());
 	}
 }
-
